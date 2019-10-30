@@ -1,0 +1,23 @@
+{
+  "name": "kryptit-web",
+  "version": "1.0.0",
+  "description": "Business Landing page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Kryptit-web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sngcobelo8/kryptitweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https//sngcobelo8.github.io/kryptitweb",
+  "bugs": {
+    "url": "https://github.com/Sngcobelo8/kryptitweb/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
